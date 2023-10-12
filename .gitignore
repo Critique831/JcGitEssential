@@ -1,3 +1,10 @@
+#dependencies folder
+node_modules/
+dependencies/
+*.log
+#asking git to ignore the file mentioned
+#include.stdio.h
+
 *.gem
 *.rbc
 /.config
